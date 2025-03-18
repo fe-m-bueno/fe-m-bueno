@@ -2,7 +2,7 @@
 
 🚀 **Frontend Developer** passionate about technology, design, and performance. Working with a diverse range of frameworks and technologies, always adapting to the best tools for each project.
 
-🎓 **Graduated in Business Administration from [UFPR](https://www.ufpr.br/portalufpr/administracao/)** and a self-taught programmer. Always learning and improving my skills!
+🎓 **Graduated in Business Administration from [UFPR](https://sociaisaplicadas.ufpr.br/administracao/)** and a self-taught programmer. Always learning and improving my skills!
 
 🤖 **AI Enthusiast:** I'm fascinated by AI and how Large Language Models are shaping the future of technology.
 
