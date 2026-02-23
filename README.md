@@ -1,21 +1,21 @@
-## 👨‍💻 Hey there, I'm Felipe!
-
-🚀 **Fullstack Developer & Systems Analyst.** I transitioned from a background in Business Administration (UFPR) to Software Engineering, which helps me build architectures that align with real business needs, not just technical requirements.
-
-🛠 **Current Focus:** I build scalable web applications and data pipelines using **Python**, **TypeScript**, **Apache Airflow** and **PostgreSQL**.
-
-🎓 **Education:** Graduated in Business Administration from **[UFPR](https://sociaisaplicadas.ufpr.br/administracao/)** and currently studying **Systems Analysis at PUCPR**. I take self-education seriously, having completed **130+ courses on Frontend Masters** on topics ranging from Compiler Theory to System Design.
-
-🤖 **AI Engineering:** I focus on the practical application of AI. I'm currently building and orchestrating **Autonomous Agents** to handle complex, multi-step workflows in production.
-
-🎮 **Offline:** When I'm not coding, I'm usually playing strategy games or reading high-fantasy books.
-
----
-
-### **💻 Tech Stack:**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) 
-
----
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fe-m-bueno&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<code>Fullstack developer with a background in Business Administration.<br>
+I build things that make sense technically and commercially.
+<br><br>
+Currently focused on <b>Python</b>, <b>TypeScript</b>, <b>Apache Airflow</b> and <b>PostgreSQL</b><br>
+for scalable web apps and data pipelines. Lately spending most of my<br>
+time on autonomous AI agents for production workflows.
+<br><br>
+Studying Systems Analysis at PUCPR. 130+ courses on Frontend Masters,<br>
+from compilers to system design. Based in Curitiba, BR.
+<br><br>
+<br><br>
+<b>Stack:</b><br>
+Python · FastAPI · Django · Pydantic AI · LangGraph · CrewAI · RAG · Kafka ·<br>
+RabbitMQ · Datadog · TypeScript · JavaScript · C# · Swift · .NET · Node ·<br>
+GraphQL · Apollo · React · Next.js · Nuxt · Angular · Remix · SvelteKit ·<br>
+Svelte · SolidJS · Vue · Redux · Zustand · TailwindCSS · Shadcn/ui ·<br>
+Framer Motion · Tanstack Query · Vitest · Testing Library · Playwright ·<br>
+React Native · Airflow · PostgreSQL · pgvector · MySQL · SQL Server ·<br>
+MongoDB · Redis · Prisma · Supabase · Docker · AWS · Linux · GitHub Actions ·<br>
+Vercel · Netlify · Figma · Storybook
+<br><br></code>
