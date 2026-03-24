@@ -18,4 +18,5 @@ Framer Motion · Tanstack Query · Vitest · Testing Library · Playwright ·<br
 React Native · Airflow · PostgreSQL · pgvector · MySQL · SQL Server ·<br>
 MongoDB · Redis · Prisma · Supabase · Docker · AWS · Linux · GitHub Actions ·<br>
 Vercel · Netlify · Figma · Storybook
-<br><br></code>
+<br><br>
+<a href="https://felipe-bueno.com">felipe-bueno.com</a> · <a href="https://linkedin.com/in/felipe-martins-bueno">linkedin</a> · felipebueno.dev@gmail.com</code>
